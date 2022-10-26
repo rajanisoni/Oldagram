@@ -13,7 +13,7 @@ It's a solo-project challenge in Scrimba's carrer path.
 
 ## Project Link
 
--[https://calm-marzipan-6d1527.netlify.app]
+- [https://calm-marzipan-6d1527.netlify.app]
 
 
 ## Contributing
